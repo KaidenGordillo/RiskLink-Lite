@@ -100,14 +100,14 @@ This makes it much more practical for larger games that cannot manually watch Ou
 ---
 
 ## Example Output
-
+```
 [RiskLink] RiskLink Lite v1.0.0 | devfunk1e scored 0 (Low Risk) | Trust=Trusted | Recommendation=No Action
 [RiskLink] RiskLink Lite v1.0.0 | - AccountAge: +0 (Account age normal)
 [RiskLink] RiskLink Lite v1.0.0 | - Avatar: +0 (Disabled)
 [RiskLink] RiskLink Lite v1.0.0 | - JoinBurst: +0 (No suspicious join burst)
 [RiskLink] RiskLink Lite v1.0.0 | - Behavior: +0 (No suspicious session behavior)
 [RiskLink] RiskLink Lite v1.0.0 | - NamePattern: +0 (No suspicious name pattern)
-
+```
 ---
 
 ## Player Attributes
