@@ -5,7 +5,9 @@
 No.
 
 RiskLink Lite is not a guaranteed alt detector.  
-It is an account risk intelligence framework that helps identify suspicious account patterns and moderation risk.## Is RiskLink Lite only useful through Output logs?
+It is an account risk intelligence framework that helps identify suspicious account patterns and moderation risk.
+
+## Is RiskLink Lite only useful through Output logs?
 
 No.
 
