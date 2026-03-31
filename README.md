@@ -101,7 +101,6 @@ This makes it much more practical for larger games that cannot manually watch Ou
 
 ## Example Output
 
-```text
 [RiskLink] RiskLink Lite v1.0.0 | devfunk1e scored 0 (Low Risk) | Trust=Trusted | Recommendation=No Action
 [RiskLink] RiskLink Lite v1.0.0 | - AccountAge: +0 (Account age normal)
 [RiskLink] RiskLink Lite v1.0.0 | - Avatar: +0 (Disabled)
