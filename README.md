@@ -188,6 +188,13 @@ Planned future expansions include:
 
 ## License / Usage
 
-Usage and redistribution terms should be clearly defined before public release.
+**RiskLink Lite** is free to use in Roblox projects.
 
-If RiskLink Lite is released as a free developer resource while future premium systems remain paid, make sure your repository and product pages clearly explain your usage expectations.
+Developers are allowed to:
+- use RiskLink Lite in their own games
+- modify it for their own projects
+- integrate it into their own moderation workflows
+
+RiskLink Lite may not be re-sold, re-uploaded as a paid product, or falsely claimed as another developer’s work.
+
+Any future **paid / premium** RiskLink products, including locked or expanded versions, are separate commercial products and are **not included** under the free RiskLink Lite release.
